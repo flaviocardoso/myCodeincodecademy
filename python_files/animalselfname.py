@@ -4,4 +4,4 @@ class Animal(object):
 
 zebra = Animal("Jeffrey")
 
-print(zebra)
+print(zebra.name)
